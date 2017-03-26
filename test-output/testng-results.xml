@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50668" started-at="2017-03-26T07:01:32Z" finished-at="2017-03-26T07:02:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50668" started-at="2017-03-26T07:01:32Z" finished-at="2017-03-26T07:02:22Z">
+      <class name="Requirements.OneTrustAutomation">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:Requirements.OneTrustAutomation@c4039c]" name="launchBrowser" is-config="true" duration-ms="7011" started-at="2017-03-26T02:01:32Z" finished-at="2017-03-26T02:01:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="TakeScreenShot_ContactsPage()[pri:0, instance:Requirements.OneTrustAutomation@c4039c]" name="TakeScreenShot_ContactsPage" duration-ms="42165" started-at="2017-03-26T02:01:39Z" finished-at="2017-03-26T02:02:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TakeScreenShot_ContactsPage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Requirements.OneTrustAutomation@c4039c]" name="closeBrowser" is-config="true" duration-ms="1470" started-at="2017-03-26T02:02:21Z" finished-at="2017-03-26T02:02:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Requirements.OneTrustAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
